@@ -1,0 +1,17 @@
+{
+    "pumpId":"12345",
+    "pumpStatus": "Operational",
+    "lastUpdated":"2024-01-18 14:30",
+    "type":"Centrifugal",
+    "area":"Area A",
+    "latitude":"40.7128N",
+    "longitude":"74.0060W",
+    "flowRate":"1000 GPM",
+    "offSet":"5 sec",
+    "currentPressure":"150 psi",
+    "minPressure": "120 psi",
+    "maxPressure":"180 psi",
+    "pumpMarker":"12345",
+    "chartType":"Chart Type1",
+    "pressureOverTimeValue":"150"
+    }

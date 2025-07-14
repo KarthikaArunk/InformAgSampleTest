@@ -1,0 +1,20 @@
+{
+    "pumpName": "Pump 25",
+    "pumpType": "Rotary",
+    "pumpArea": "Area C",
+    "latitude": "34.0522",
+    "longitude":"-118.2437",
+    "flowRate":"400 GPM",
+    "offSet":"2 sec",
+    "currentPressure":"90 psi",
+    "minPressure":"60 psi",
+    "maxPressure":"120 psi",
+    "pumpnameEdit":"Pump C Edited",
+    "pumptypeEdit":"Rotary Edited",
+    "pumpareaEdit":"Area C Edited",
+    "latitudeEdit":"34.0522 Edited",
+    "longtitudeEdit":"-118.2437 Edited",
+    "offsetEdit":"2 sec Edited",
+    "minreassureEdit":"60 psi Edited",
+    "maxreassureEdit":"120 psi Edited"
+}
